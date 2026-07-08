@@ -1,40 +1,41 @@
 # 👨🏾‍💻 Olá! Eu sou Patrick da Silva de Freitas
 
-**Desenvolvedor Python | Em transição para a área de Tecnologia**
+**Desenvolvedor Full Stack em formação | Python • Flask • HTML • CSS**
 
-Tenho 24 anos e sou apaixonado por tecnologia.
-Atualmente estou estudando desenvolvimento de software com foco em Python e construindo projetos próprios para colocar em prática tudo o que aprendo.
+Tenho 24 anos e estou em transição para a área de tecnologia.
 
-Meu principal projeto é um **Sistema de Controle de Estoque**, desenvolvido para aplicar conceitos de programação, organização de dados, Git, GitHub e desenvolvimento web.
+Atualmente estudo desenvolvimento de software com foco em Python e desenvolvimento web, construindo projetos próprios para aplicar na prática os conhecimentos adquiridos.
 
-Estou em busca da minha primeira oportunidade na área de desenvolvimento, sempre buscando aprender novas tecnologias e evoluir através da prática.
+Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Full Stack Júnior, evoluindo continuamente através da prática, do estudo e da criação de projetos.
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,git,github,vscode" />
 </p>
 
 ---
 
-## 📚 Atualmente estudando
+# 📚 Atualmente estudando
 
 - 🐍 Python
-- 🌐 HTML
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚙️ Flask
+- 📂 JSON
 - 🔀 Git
-- 📂 GitHub
-- 📄 JSON
+- ☁️ GitHub
 - 💻 Boas práticas de programação
 
 ---
 
-## 💻 Projeto em destaque
+# 💻 Projeto em destaque
 
-### 📦 Sistema de Controle de Estoque
+## 📦 Sistema de Controle de Estoque
 
-Projeto desenvolvido para praticar conceitos fundamentais de programação.
+Aplicação desenvolvida para praticar desenvolvimento Full Stack utilizando Python e Flask.
 
 ### Funcionalidades
 
@@ -43,25 +44,45 @@ Projeto desenvolvido para praticar conceitos fundamentais de programação.
 - ✅ Entrada de produtos
 - ✅ Saída de produtos
 - ✅ Persistência de dados utilizando JSON
+- ✅ Interface Web com Flask
+- ✅ Validação de formulários
+- ✅ Prevenção de produtos duplicados
+- ✅ Organização do código em funções
 - ✅ Versionamento com Git e GitHub
-- 🚧 Interface Web em desenvolvimento
 
-🔗 Repositório:
-**https://github.com/TrickStar255**
+### Tecnologias utilizadas
+
+- Python
+- Flask
+- HTML5
+- CSS3
+- JSON
+- Git
+- GitHub
+
+### Próximas melhorias
+
+- 🚧 Dashboard
+- 🚧 Histórico de movimentações
+- 🚧 Banco de dados SQLite
+- 🚧 Sistema de login
+- 🚧 Controle de usuários
+
+🔗 **Repositório:**
+[https://github.com/TrickStar255](https://github.com/TrickStar255/Controle-de-estoque)
 
 ---
 
-## 🎯 Objetivo
+# 🎯 Objetivo
 
-Conquistar minha primeira oportunidade como Desenvolvedor de Software, contribuindo com dedicação, curiosidade, organização e vontade constante de aprender.
+Conquistar minha primeira oportunidade como Desenvolvedor Full Stack Júnior, contribuindo com dedicação, organização e vontade constante de aprender.
+
 ---
 
-## 📫 Contato
+# 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Patrick%20da%20Silva%20Freitas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patrick-silva-043027254)
 
 [![GitHub](https://img.shields.io/badge/GitHub-TrickStar255-181717?style=for-the-badge&logo=github)](https://github.com/TrickStar255)
 
 📧 **patrickdasilva2509@gmail.com**
-
----
